@@ -1,9 +1,9 @@
 ## googletestexample
 
-This repository contains the basic usage of ([Google Test](https://github.com/google/googletest)), Google's c++ testing framework. To build this project, you need CMake installed in your system. You can download it for free from here <http://www.cmake.org/>.
+This repository contains the basic usage of [Google Test](https://github.com/google/googletest), Google's c++ testing framework. To build this project, you need CMake installed in your system. You can download it for free from here <http://www.cmake.org/>.
 
 
-As per the Google Test ([documentation](https://github.com/google/googletest/blob/master/googletest/README.md)), a more robust and flexible way to build the gtest project as part of the build. This reduces the effort by a significant amount. It is always recommended to build the project in a different directory from the source. Followings are the instructions to build the project.
+As per the Google Test [documentation](https://github.com/google/googletest/blob/master/googletest/README.md), a more robust and flexible way to build the gtest project as part of the build. This reduces the effort by a significant amount. It is always recommended to build the project in a different directory from the source. Followings are the instructions to build the project.
 
     mkdir build       # Create a directory to hold the build output.
     cd build
